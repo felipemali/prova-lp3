@@ -56,9 +56,9 @@ prova-felipe
 {
 "id": "serie_7",
 "title": "The Crown",
-"premiere": "2016-11-04T00:00:00.000Z",
+"premiere": "2016-11-04",
 "isRunning": true,
 "language": "English",
 "mainGenre": "Historical Drama",
-"posterUrl": "https://th.bing.com/th/id/OIP.aUSJnsZCMK1674mCbtxpQgHaK-?w=194&h=288&c=7&r=0&o=5&pid=1.7",
+"posterUrl": "https://th.bing.com/th/id/OIP.aUSJnsZCMK1674mCbtxpQgHaK-?w=194&h=288&c=7&r=0&o=5&pid=1.7"
 }
